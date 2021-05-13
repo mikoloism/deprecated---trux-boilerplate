@@ -16,6 +16,9 @@ put here description about project/repo
   - [ ] [public/html](./public/index.html)
 - [ ] setup [stylesheets](./src/styles)
 - [ ] setup [routers](./src/router.js)
+- [ ] setup store management system (trux)
+  - [ ] update [stats](./src/store/stats.js)
+  - [ ] update [actions](./src/store/actions.js)
 
 ## LICENSE
 
