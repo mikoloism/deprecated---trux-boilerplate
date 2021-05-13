@@ -1,4 +1,4 @@
 import * as actions from './actions';
-import state from './states';
+import state from './stats';
 
 export { state, actions };
