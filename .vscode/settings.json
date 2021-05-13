@@ -1,0 +1,25 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/.classpath": true,
+		"**/.project": true,
+		"**/.settings": true,
+		"**/.factorypath": true,
+		"yarn.lock": true,
+		"yarn-error.log": true,
+		"README.md": true,
+		"package.json": true,
+		".gitignore": true,
+		"package-lock.json": true,
+		".vscode": true,
+		"node_modules": true,
+		"trux": true,
+		"screenshots": true,
+		"CRA.md": true
+	},
+	"explorerExclude.backup": null
+}
