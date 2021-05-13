@@ -8,6 +8,13 @@ put here description about project/repo
 -   [setup](./CRA.md)
 -   [license](./LICENSE)
 
+## TODO (after clone)
+
+- [ ] change project title
+  - [ ] [package](./package.json)
+  - [ ] [package-lock](./package-lock.json)
+  - [ ] [public/html](./public/index.html)
+
 ## LICENSE
 
 Under [MIT](./LICENSE) License
