@@ -14,6 +14,8 @@ put here description about project/repo
   - [ ] [package](./package.json)
   - [ ] [package-lock](./package-lock.json)
   - [ ] [public/html](./public/index.html)
+- [ ] setup [stylesheets](./src/styles)
+- [ ] setup [routers](./src/router.js)
 
 ## LICENSE
 
