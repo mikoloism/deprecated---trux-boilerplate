@@ -19,7 +19,8 @@ put here description about project/repo
 -   [ ] setup store management system (trux)
     -   [ ] update [stats](./src/store/stats.js)
     -   [ ] update [actions](./src/store/actions.js)
-
+- [ ] take screenshot > save on [screenshot dir](./screenshots)
+    - [ ] add to [screenshot readme](./screenshots/README.md)
 ## LICENSE
 
 Under [MIT](./LICENSE) License
