@@ -19,7 +19,8 @@
 		"node_modules": true,
 		"trux": true,
 		"screenshots": true,
-		"CRA.md": true
+		"CRA.md": true,
+		"LICENSE": true
 	},
 	"explorerExclude.backup": null
 }
