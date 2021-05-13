@@ -1,6 +1,6 @@
-# #{project_name}
+# ⚛️ react-boilerplate
 
-#{project_description}
+put here description about project/repo
 
 ## Menu
 
@@ -10,4 +10,4 @@
 
 ## LICENSE
 
-Under [#{license_name}](./LICENSE) License
+Under [MIT](./LICENSE) License
