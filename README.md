@@ -1,3 +1,10 @@
+**DEPRECATED on `Oct 18 2022`**
+
+hint : `trux` boilerplate
+
+
+<!--
+
 # ⚛️ react-boilerplate
 
 put here description about project/repo
@@ -24,3 +31,6 @@ put here description about project/repo
 ## LICENSE
 
 Under [MIT](./LICENSE) License
+
+
+-->
